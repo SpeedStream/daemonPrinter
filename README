@@ -1,0 +1,17 @@
+Aaron E. Santos Canela
+Herón Zurita Vázquez
+ITESM CCV
+Automatización de sistema de impresoras Pharos.
+
+NOTA: REQUIERE LA INSTALACIÓN DE CLICLICK.
+Cliclick Source Code: https://github.com/BlueM/cliclick
+
+V 2.0 - 18/05/2016
+	Lee una carpeta e imprime los archivos.
+	LIMITANTES
+		Requiere que el archivo sea llamado con la matrícula del alumno.
+		Su contraseña para liberar el archivo el el kiosko será la misma matrícula.
+
+Para ejecutar el programa, ejecutar el comando make.
+Posteriormente, ingresar al archivo sh y modificar la variable "path" para que apunte a la carpeta compartida.
+Ejecutar el programa.
